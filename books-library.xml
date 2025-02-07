@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+   <book id="1">
+      <title>Novel</title>
+      <name>Harry Potter and the Philosopher's Stone</name>
+      <author>J.K. Rowling</author>
+      <year>1997</year>
+      <genre>Fantasy</genre>
+   </book>
+   <book id="2">
+      <title>Stoyrtelling</title>
+      <name>Harry Potter and the Chamber of Secrets</name>
+      <author>J.K. Rowling</author>
+      <year>1998</year>
+      <genre>Fantasy</genre>
+   </book>
+   <book id="3">
+      <title>Horror</title>
+      <name>Harry Potter and the Prisoner of Azkaban</name>
+      <author>J.K. Rowling</author>
+      <year>1999</year>
+      <genre>Fantasy</genre>
+   </book>
+   <book id="4">
+      <title>Thriller</title>
+      <name>Harry Potter and the Goblet of Fire</name>
+      <author>J.K. Rowling</author>
+      <year>2000</year>
+      <genre>Fantasy</genre>
+   </book>
+   <book id="5">
+      <title>Romantic</title>
+      <name>Harry Potter and the Order of the Phoenix</name>
+      <author>J.K. Rowling</author>
+      <year>2003</year>
+      <genre>Fantasy</genre>
+   </book>
+   <book id="6">
+      <title>Action</title>
+      <name>Harry Potter and the Half-Blood Prince</name>
+      <author>J.K. Rowling</author>
+      <year>2005</year>
+      <genre>Fantasy</genre>
+   </book>
+   <book id="7">
+      <title>Adventure</title>
+      <name>Harry Potter and the Deathly Hallows</name>
+      <author>J.K. Rowling</author>
+      <year>2007</year>
+      <genre>Fantasy</genre>
+   </book>
+   <book id="8">
+      <title>Soft</title>
+      <name>IT Ends With Us</name>
+      <author>COLLEN HOOVER</author>
+      <year>2009</year>
+      <genre>Romance</genre>
+   </book>
+   <book id="9">
+      <title>Soft</title>
+      <name>IT Starts With Us</name>
+      <author>COLLEN HOOVER</author>
+      <year>2010</year>
+      <genre>Romance</genre>
+   </book>
+   <book id="10">
+      <title>Murder-Story</title>
+      <name>A Good Girl Guides to a Murder</name>
+      <author>Holly Jackson</author>
+      <year>2009</year>
+      <genre>Murder</genre>
+   </book>
+</library>
